@@ -1,0 +1,226 @@
+e78f77aa-f9d3-38b3-8390-8461c57ea068:
+Credits: 15
+7016eaa9-0357-375a-b147-037a236fa50e:
+Credits: 55
+7d8b6918-7da5-3224-8414-db2a09fcd039:
+Credits: 10
+a8a77d46-8da8-38cf-8692-169f96a202e9:
+Credits: 15
+d8122643-14e1-3039-845f-8378c3a4b3d6:
+Credits: 5
+5b21643f-a230-36c9-aecd-48b3db8785f0:
+Credits: 10
+2de873e2-25fd-3929-b108-666efd95b5f4:
+Credits: 10
+52ec88e3-55f4-321c-89c8-82274167dd27:
+Credits: 5
+3cadea47-7939-3306-af1f-2530b19f321c:
+Credits: 10
+5408dcc7-4f57-3671-adf2-14ddd1d74a2b:
+Credits: 5
+7c7d2709-afef-3c65-883a-7304718204e2:
+Credits: 20
+9aed9817-7390-301f-a531-15b20399fd69:
+Credits: 5
+0d90f02d-7fd8-354c-8072-e279c0e9b825:
+Credits: 5
+11e96b14-7522-34c0-974b-6415753481e9:
+Credits: 0
+327f91f6-dfb4-3093-996f-4f08e2f28bcc:
+Credits: 5
+c4352be1-0a53-3ef3-8cfe-19e859a78bd6:
+Credits: 43
+addc1f49-fd72-3799-92c1-ce328465827b:
+Credits: 10
+4fd32f3c-a346-316a-85dd-f02910bfd5ed:
+Credits: 5
+e68f2270-a74c-35ac-99da-d0651a4ccb2d:
+Credits: 20
+5b665db0-6ca6-38ec-b3ba-d0b4803c3f30:
+Credits: 20
+57ac812d-03c2-36f9-8cc3-0143c2256b50:
+Credits: 5
+57a73668-8687-3438-941d-662af10a4033:
+Credits: 3
+b1d2a6fd-7298-3c25-af6b-0a7c4a15594d:
+Credits: 10
+b7fb70a9-03e8-35ab-ae88-5d0c68e8d3a3:
+Credits: 5
+3fa7a801-5fc9-31f3-8d4e-f11e751e3e5c:
+Credits: 35
+6c04c8eb-46c6-3708-8c2b-cc69b420acc0:
+Credits: 5
+06573211-349b-34f7-99d7-009e0f891e5b:
+Credits: 10
+f7dddb84-985a-346b-83df-96611b804d30:
+Credits: 10
+deb0c87c-edfa-3b65-91a7-bb261efd4960:
+Credits: 20
+8ce81cda-a090-3796-b2cd-cc9620a600c7:
+Credits: 10
+4f716b58-e72a-3bc7-8134-1fbf8bb291df:
+Credits: 5
+81d4df76-52fc-335c-b556-9abe80aff341:
+Credits: 15
+01fef80a-23bf-39f1-945f-31dac9bcebeb:
+Credits: 10
+20d82bc9-94b1-3fd2-8d91-0ed7a91175e5:
+Credits: 10
+a823bd3b-89ea-367e-a473-e2068dde74b3:
+Credits: 10
+1ae50297-5a09-3207-af55-522a9fced6ee:
+Credits: 5
+ff2544ad-975c-3acb-93a2-963de6e2328b:
+Credits: 60
+0e7a3a84-c4f6-38fc-b36e-5bfdac9105fe:
+Credits: 10
+9349b3f8-135b-3802-9c89-6ad8b8dfc218:
+Credits: 10
+d988c172-b3f6-302d-b77b-93942c7b7033:
+Credits: 25
+24617200-55d3-321f-b287-e0d9ebed5e03:
+Credits: 10
+258c793a-479f-37b3-891c-18672352349a:
+Credits: 15
+fa2f6034-6918-3288-8a23-42eaf85b1264:
+Credits: 10
+f90a6e0d-59d8-3778-b9aa-d9c37923279e:
+Credits: 5
+82f496d7-deb5-3537-add5-aab602da511e:
+Credits: 5
+08f8baac-9638-3680-a0d8-10120ef6fb0e:
+Credits: 10
+7c664ace-2a33-3d00-9f47-90a95fe5caa9:
+Credits: 10
+57be8e5b-10fb-372e-8134-b925a6dbd892:
+Credits: 10
+356563e0-194c-38dd-8996-82eaa46ad5fe:
+Credits: 10
+563b7660-e129-3bbb-8423-bbacec5ad7b7:
+Credits: 15
+64a1fd36-0468-3e32-aee3-acb710928e1c:
+Credits: 20
+d6761f78-ab87-3dec-8748-2b63bfec79da:
+Credits: 10
+cce51d2e-eec8-3e8c-8cd5-11e3ab03bc1f:
+Credits: 60
+ed67a748-ed44-3c11-a50b-d9c861eff41e:
+Credits: 35
+e23af85c-0cec-3f05-b58c-bf44164cd7f7:
+Credits: 10
+e7589099-defd-3e34-b7eb-1ecd4ad5ca77:
+Credits: 25
+5d3379f8-302a-3651-bc29-a5d62b772a42:
+Credits: 10
+f1646b89-3158-3d64-9591-57cacb8f85aa:
+Credits: 30
+e7bef2cb-f34b-3395-80c5-2255981aed89:
+Credits: 90
+81625a28-dfe1-3b5d-990a-32c73dfe7246:
+Credits: 10
+a3fae248-e96b-3f08-860c-cb9df6f3eabc:
+Credits: 10
+2733ff4f-884b-3f4c-a1e7-0eb1829588fc:
+Credits: 20
+6c3fa3eb-9777-3f0f-b088-7071a1b1d894:
+Credits: 10
+67d0a218-0292-3b0b-8c94-58f626835bcc:
+Credits: 5
+92058da7-96c3-311f-8e9b-3a4cd86bd6c8:
+Credits: 5
+3893c917-f44a-38e9-96ca-e9f5e0fe3894:
+Credits: 5
+4a740729-624b-3ad7-b9d5-f16d3b178edd:
+Credits: 5
+ebf12d48-2dbb-3b10-b210-fed76011d5ff:
+Credits: 5
+dd0c04c0-38c0-3be9-8d37-99401ee68b41:
+Credits: 5
+7ed2fffe-81ad-3e57-8dd0-4d59e999e4e1:
+Credits: 5
+d4903c3a-8c9a-3fd5-92bb-061d8ca7e93a:
+Credits: 60
+a5328e4f-6067-3182-af83-9dca88ec058a:
+Credits: 10
+159b19a4-742f-3b31-b96f-bb51fc6d05ac:
+Credits: 5
+9ab4baf6-78b0-33c2-add4-221b6eb22a13:
+Credits: 10
+98fcfaa6-102a-3a06-9d7e-faf4279265d6:
+Credits: 25
+787b527c-1d17-3405-b927-3ea73279b07e:
+Credits: 10
+77bcec08-fce9-360c-a98a-ee9d08aabdd9:
+Credits: 5
+6134de9d-aaa2-3c11-94b0-c683ad36f584:
+Credits: 10
+b0a60cb9-b5ce-39fa-908b-6f86c04eb59b:
+Credits: 5
+11eb37e5-6f95-3acc-aa94-bd50c4649d9d:
+Credits: 23
+93a305c9-abfb-3dbe-8c81-131fbe88070e:
+Credits: 10
+855ae0b8-b461-3d5c-8ed5-d252e98adad0:
+Credits: 10
+beed6013-c876-32bc-80b3-87a05227a999:
+Credits: 10
+e1852d42-a284-3ba3-a69e-cbb0934c8725:
+Credits: 60
+170d1327-68ab-38d7-b03f-7673ba703bd0:
+Credits: 5
+a0b57c1a-5a67-3202-9acf-b133283aad84:
+Credits: 5
+f86f89c2-a9e9-3bee-b9d5-6e272b70f820:
+Credits: 5
+63e5bd4e-426b-3bbd-8bbf-229e391a195f:
+Credits: 10
+8917172d-eeff-3745-bc9a-8661b2e02e6c:
+Credits: 15
+1fc3c397-f941-30de-ad08-38c218775354:
+Credits: 10
+bb97a9af-c886-3ef2-ac3e-912af0248e89:
+Credits: 0
+db6b3e14-a04f-3538-a6b0-6344a0887126:
+Credits: 20
+495474d0-a8b6-36df-b23f-262875942798:
+Credits: 10
+347e842e-1373-37d3-a89e-d8672e2376be:
+Credits: 5
+8b939908-6cf9-35be-8df1-e64beea69b44:
+Credits: 20
+5c6a21c1-9e41-3d5b-87e8-a5cec062e3b8:
+Credits: 10
+0cd4f1c1-7581-3d06-a399-e6949e9dfbcc:
+Credits: 0
+a8bf9667-50a1-3083-9a60-1a207e815f97:
+Credits: 5
+ba3a0f43-56cd-3d20-adc3-986d64ae86fc:
+Credits: 5
+9707441c-323b-361a-bf85-17ce301e21fd:
+Credits: 10
+dd484500-257a-3cd1-a355-eaa4a2a42e1a:
+Credits: 10
+8fbf35e3-456e-3669-a50d-d211fd086845:
+Credits: 10
+0a22af32-4659-30b3-b66b-2b8b94a6103d:
+Credits: 10
+a7ac322a-174d-3bd9-b40a-c2b76fed5468:
+Credits: 20
+acbfe6cc-1beb-3232-a753-7f6fd10a3db5:
+Credits: 0
+26c2f339-57fc-350a-9252-dd2ecb82430b:
+Credits: 10
+ebd6d544-e5c7-3cdb-a36d-db30e314ee9f:
+Credits: 5
+4042febe-44e9-341a-9ac4-37a8d41291b5:
+Credits: 5
+6b47db83-cef1-3c10-a54e-f97a66a3fadd:
+Credits: 0
+97e6dfdd-381d-364a-bdea-ca3f6bd6097f:
+Credits: 10
+b4bdb485-0fcc-3220-93a2-e5c1d3c11b26:
+Credits: 1
+2c676a6f-da23-3a40-acb4-7b2df74acb50:
+Credits: 5
+8727bd35-60d2-3059-804b-7f0b390eff04:
+Credits: 5
